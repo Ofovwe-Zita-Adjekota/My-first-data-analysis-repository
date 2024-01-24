@@ -23,7 +23,7 @@
 - ### Mexico and Russia recorded so many deaths even though their confirmed cases were not among the top 5 highest confirmed cases.
 - ### I found out that the 5 countries with the highest confirmed cases did not exactly make it as the 5 countries with the highest death cases. 
 - ### There were no recorded death cases in the Antarctica and Oceania areas which are extremely cold environments.
-- ### There are no recorded deaths in both the Summer Olympics and the Winter Olympics games.
+- ### There are no recorded deaths in both the Summer Olympics 2020 and the Winter Olympics 2022 games.
 - ### There was sudden and rapid decline in cases of Covid19 and resulting deaths in 2023.
 
 1. ## I therefore recommend that whatever was used to stop the spread of the virus and deaths be made readily available for COVID-19 patients and in energent cases.
