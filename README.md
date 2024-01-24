@@ -7,7 +7,7 @@
 
 -----
 # Data Sourcing
-### The data was scraped from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. It is a CSV file but was used directly from the web.
+### The data was scraped from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. It is a CSV file and was used directly from the web.
 -----
 # Data Transformation
 ### The data was transformed using Microsoft Excel for cleaning, analyzing and also visualizing. 
